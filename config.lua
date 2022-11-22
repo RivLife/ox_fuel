@@ -3,7 +3,7 @@ Config = {
 	versionCheck = true,
 
 	-- Enable support for qTarget
-	qtarget = false,
+	qtarget = true,
 
 	/*
 	* Show or hide gas stations blips
